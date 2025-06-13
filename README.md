@@ -24,7 +24,7 @@ This project demonstrates basic DOM manipulation using jQuery, equivalent to sta
 ## GitHub Pages
 
 You can view the live demo here:
-[https://Divakhar31.github.io/Lab5a_divakhar/](https://yourusername.github.io/jquery-demo/)  
+[[https://Divakhar31.github.io/Lab5a_divakhar/](https://github.com/Divakhar31/Lab5a_divakhar.git)
 
 ---
 
